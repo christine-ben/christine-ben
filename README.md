@@ -2,7 +2,8 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image ici" /></p >
 
 # Salut! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Ravi de vous rencontrer.
-![Header image](https://github.com/christine-ben/christine-ben/blob/main/Ajouter%20un%20titre.png)
+
+![Header image](https://github.com/christine-ben/christine-ben/blob/main/Ajouter%20un%20titre%20(1).png)
 
 <h2 align="center">Bonjour je m'appelle christine benabdalleh 👋🤓</h2> 
 
