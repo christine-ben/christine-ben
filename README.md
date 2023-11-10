@@ -5,7 +5,7 @@
 
 ![Header image](https://github.com/christine-ben/christine-ben/blob/main/Ajouter%20un%20titre%20(1).png)
 
-<h2 align="center">Bonjour je m'appelle christine benabdalleh 👋🤓</h2> 
+<h2 align="center">Bonjour je m'appelle christine benabdallah 👋🤓</h2> 
 
 <p align="center">Actuellement étudiante shez Openclassroom formation integrateur web  Je  suis  passionné  par  les projets qui accordent  autant d'importance au design qu'à la technique.Étant perfectionniste, je suis toujours en recherche de qualité. ✨Mais aussi ambitieuse, je prends le temps d'apprendre et entreprendre afin de réaliser des projets personnels qui me font rêver.</p>
 
